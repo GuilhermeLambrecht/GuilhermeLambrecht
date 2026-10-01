@@ -1,4 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0b3d1f,100:16a34a&text=Guilherme%20Lambrecht&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Fullstack%20Developer&descAlignY=72&descSize=20" />
+<h1 align="center">Guilherme Lambrecht</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=22C55E&center=true&vCenter=true&width=500&height=40&lines=Fullstack+Developer;TypeScript+%C2%B7+Node.js+%C2%B7+React;Applied+AI+in+everyday+work" />
+</p>
 
 <p align="center">
   <a href="https://br.linkedin.com/in/guilherme-lambrecht-3160253a1"><img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20International-16a34a?style=flat-square" /></a>
@@ -97,5 +101,3 @@ I'm proactive, eager to learn and passionate about technology.
 <a href="https://www.lambrecht.com.br"><img src="https://img.shields.io/badge/Portfolio-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0b3d1f,100:16a34a&section=footer" />
