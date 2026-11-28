@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="230" viewBox="0 0 480 230" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace">
+<style>text{white-space:pre}.f{opacity:0}</style>
+<rect x="1" y="1" width="478" height="228" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+<path d="M1 13 a12 12 0 0 1 12 -12 H467 a12 12 0 0 1 12 12 V40 H1Z" fill="#f6f8fa"/>
+<rect x="1" y="40" width="478" height="1" fill="#d0d7de"/>
+<circle cx="22" cy="21" r="6" fill="#ff5f57"/><circle cx="41" cy="21" r="6" fill="#febc2e"/><circle cx="60" cy="21" r="6" fill="#28c840"/>
+<text x="240" y="25" text-anchor="middle" font-size="13" fill="#656d76">stats.sh</text><text x="22" y="70" font-size="13"><tspan fill="#1a7f37">$</tspan><tspan fill="#24292f"> gh stats </tspan><tspan fill="#bc4c00">--last-year</tspan></text><g class="f"><set attributeName="opacity" to="1" begin="0.20s" fill="freeze"/>
+<text x="22" y="112" font-size="12.5" fill="#656d76">commits:</text>
+<text x="228" y="112" text-anchor="end" font-size="19" font-weight="700" fill="#1a7f37">33</text>
+<rect x="22" y="122" width="206" height="1" fill="#d0d7de"/></g><g class="f"><set attributeName="opacity" to="1" begin="0.32s" fill="freeze"/>
+<text x="248" y="112" font-size="12.5" fill="#656d76">pull_requests:</text>
+<text x="454" y="112" text-anchor="end" font-size="19" font-weight="700" fill="#0969da">3</text>
+<rect x="248" y="122" width="206" height="1" fill="#d0d7de"/></g><g class="f"><set attributeName="opacity" to="1" begin="0.44s" fill="freeze"/>
+<text x="22" y="152" font-size="12.5" fill="#656d76">issues:</text>
+<text x="228" y="152" text-anchor="end" font-size="19" font-weight="700" fill="#8250df">0</text>
+<rect x="22" y="162" width="206" height="1" fill="#d0d7de"/></g><g class="f"><set attributeName="opacity" to="1" begin="0.56s" fill="freeze"/>
+<text x="248" y="152" font-size="12.5" fill="#656d76">repositories:</text>
+<text x="454" y="152" text-anchor="end" font-size="19" font-weight="700" fill="#bc4c00">10</text>
+<rect x="248" y="162" width="206" height="1" fill="#d0d7de"/></g><g class="f"><set attributeName="opacity" to="1" begin="0.68s" fill="freeze"/>
+<text x="22" y="192" font-size="12.5" fill="#656d76">stars:</text>
+<text x="228" y="192" text-anchor="end" font-size="19" font-weight="700" fill="#9a6700">3</text>
+<rect x="22" y="202" width="206" height="1" fill="#d0d7de"/></g><g class="f"><set attributeName="opacity" to="1" begin="0.80s" fill="freeze"/>
+<text x="248" y="192" font-size="12.5" fill="#656d76">followers:</text>
+<text x="454" y="192" text-anchor="end" font-size="19" font-weight="700" fill="#0550ae">3</text>
+<rect x="248" y="202" width="206" height="1" fill="#d0d7de"/></g>
+</svg>

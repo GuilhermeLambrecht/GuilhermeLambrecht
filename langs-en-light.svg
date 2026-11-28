@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="230" viewBox="0 0 480 230" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace">
+<style>text{white-space:pre}.f{opacity:0}</style>
+<rect x="1" y="1" width="478" height="228" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+<path d="M1 13 a12 12 0 0 1 12 -12 H467 a12 12 0 0 1 12 12 V40 H1Z" fill="#f6f8fa"/>
+<rect x="1" y="40" width="478" height="1" fill="#d0d7de"/>
+<circle cx="22" cy="21" r="6" fill="#ff5f57"/><circle cx="41" cy="21" r="6" fill="#febc2e"/><circle cx="60" cy="21" r="6" fill="#28c840"/>
+<text x="240" y="25" text-anchor="middle" font-size="13" fill="#656d76">langs.sh</text><text x="22" y="70" font-size="13"><tspan fill="#1a7f37">$</tspan><tspan fill="#24292f"> linguist </tspan><tspan fill="#bc4c00">--top 6</tspan></text><defs><clipPath id="bar"><rect x="22" y="88" width="436" height="10" rx="5"/></clipPath></defs><g clip-path="url(#bar)"><rect x="22" y="88" width="436" height="10" fill="#d0d7de"/><rect x="22.0" y="88" width="0" height="10" fill="#3178c6"><animate attributeName="width" from="0" to="220.5" begin="0.20s" dur=".5s" fill="freeze"/></rect><rect x="242.5" y="88" width="0" height="10" fill="#4F5D95"><animate attributeName="width" from="0" to="114.8" begin="0.30s" dur=".5s" fill="freeze"/></rect><rect x="357.2" y="88" width="0" height="10" fill="#f1e05a"><animate attributeName="width" from="0" to="83.7" begin="0.40s" dur=".5s" fill="freeze"/></rect><rect x="440.9" y="88" width="0" height="10" fill="#3572A5"><animate attributeName="width" from="0" to="14.8" begin="0.50s" dur=".5s" fill="freeze"/></rect><rect x="455.7" y="88" width="0" height="10" fill="#F4AA41"><animate attributeName="width" from="0" to="2.3" begin="0.60s" dur=".5s" fill="freeze"/></rect></g><g class="f"><set attributeName="opacity" to="1" begin="0.30s" fill="freeze"/><circle cx="27" cy="132" r="5" fill="#3178c6"/>
+<text x="40" y="136" font-size="13" fill="#24292f">TypeScript</text>
+<text x="228" y="136" text-anchor="end" font-size="13" fill="#656d76">50.6%</text></g><g class="f"><set attributeName="opacity" to="1" begin="0.40s" fill="freeze"/><circle cx="253" cy="132" r="5" fill="#4F5D95"/>
+<text x="266" y="136" font-size="13" fill="#24292f">PHP</text>
+<text x="454" y="136" text-anchor="end" font-size="13" fill="#656d76">26.3%</text></g><g class="f"><set attributeName="opacity" to="1" begin="0.50s" fill="freeze"/><circle cx="27" cy="164" r="5" fill="#f1e05a"/>
+<text x="40" y="168" font-size="13" fill="#24292f">JavaScript</text>
+<text x="228" y="168" text-anchor="end" font-size="13" fill="#656d76">19.2%</text></g><g class="f"><set attributeName="opacity" to="1" begin="0.60s" fill="freeze"/><circle cx="253" cy="164" r="5" fill="#3572A5"/>
+<text x="266" y="168" font-size="13" fill="#24292f">Python</text>
+<text x="454" y="168" text-anchor="end" font-size="13" fill="#656d76">3.4%</text></g><g class="f"><set attributeName="opacity" to="1" begin="0.70s" fill="freeze"/><circle cx="27" cy="196" r="5" fill="#F4AA41"/>
+<text x="40" y="200" font-size="13" fill="#24292f">Bru</text>
+<text x="228" y="200" text-anchor="end" font-size="13" fill="#656d76">0.5%</text></g>
+</svg>
